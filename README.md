@@ -27,6 +27,6 @@ I design UI, UX, and graphics. video editing, and motion graphics.
 <br>
 <hr>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/omar-al-kahdery-21235b1b7//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omar-al-kahdery-21235b1b7/)
 <br>
 Phon:+90 538 364 14 94
