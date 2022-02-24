@@ -8,7 +8,6 @@ I'm Omar from Iraq living in Turkey. I am so passionate about web programming an
 
 ## Skills and Experience
 
-<br>
 
 ### **Web & GIS Developer**
 
