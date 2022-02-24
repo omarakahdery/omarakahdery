@@ -13,7 +13,7 @@ I'm Omar from Iraq living in Turkey. I am so passionate about web programming an
 
 I code web frontend and GIS applications. I know a little backend and server site.
 
-- ⚛ React Nextjs
+- ⚛ React, Nextjs
 - 💻 HTML, CSS, JS
 - 🗺️ Leaflet, OpenLayers, Mapbox
 
