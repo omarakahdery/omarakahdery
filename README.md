@@ -2,7 +2,9 @@
 # Omar Alkahdery
 ## **GIS & Frontend Developer** | ReactJS
 
-I'm Omar from Iraq living in Turkey. I am so passionate about web programming and always trying to improve myself in this field. I code web frontend applications using React JS technologies and enjoy bringing ideas to life in the browser, as well as I code GIS applications.
+I am so passionate about web programming and always trying to improve myself. I care about doing my work in time and fast, focusing on solutions, communicating clearly, and being
+cheerful while working. I am never afraid of learning something new. I can work as Frontend Developer React and Next JS. I know a little backend and server site. I want to get an
+internship with an ambitious organization that helps me transfer my knowledge and get new experience. I can work remotely and I have experience with that.
 
 <hr>
 
