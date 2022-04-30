@@ -21,7 +21,7 @@ I code web frontend and GIS applications. I know a little backend and server sit
 
 I design UI, UX, and graphics. video editing, and motion graphics.
 
-- 🎨 Photoshop, Adobe XD, Illustrator
+- 🎨 Figma, Photoshop, Adobe XD, Illustrator
 - 🎦 After Effects, Premiere Pro
 <br>
 <hr>
