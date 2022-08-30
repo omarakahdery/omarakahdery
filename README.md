@@ -2,7 +2,8 @@
 # Omar Alkahdery
 ## **GIS & Frontend Developer** | ReactJS
 
-I Develop apps for those who have new ideas and want to make a change in the World. I am so passionate about web programming and always trying to do my best. I care about doing my work on time and fast, focusing on solutions, communicating clearly, and being cheerful while working. I am never afraid of learning something new. I can do your Frontend or web GIS project using React and Next JS technologies. I know backend and server-side also. Feel free to contact me to discuss your project.
+I am a Frontend Developer with on year expertise, I am so passionate about web programming and always trying to improve myself, I am never afraid of learning
+something new. I can work as Frontend Developer using React and Next JS, I have a good knowledge also in MERN stack.
 
 <hr>
 
