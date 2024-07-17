@@ -13,9 +13,10 @@ Hi, I'm Omar. Dynamic and results-oriented software developer with a strong foun
 
 I code web frontend and GIS applications. I know a little backend and server site.
 
+- 💻 JS, TS, C#, Kotlin
 - ⚛ React, Nextjs
-- :iphone: React Native 
-- 💻 HTML, CSS, JS, TS, C#
+- 📱 React Native 
+- 🔙 Dot Net, Nodejs
 
 
 <br>
