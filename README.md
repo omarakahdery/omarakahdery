@@ -17,8 +17,6 @@ I code web frontend and GIS applications. I know a little backend and server sit
 - 💻 HTML, CSS, JS, TS, C#
 
 
-### **Design**
-- 🎨 Figma, Photoshop, Adobe XD, Illustrator
 <br>
 <hr>
 
