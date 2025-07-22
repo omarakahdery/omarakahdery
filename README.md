@@ -2,7 +2,7 @@
 # Omar Alkahdery
 ## **GIS & Frontend Developer** | ReactJS
 
-Hi, I'm Omar. Dynamic and results-oriented software developer with a strong foundation in web front-end and mobile application development. Proficient in utilizing NextJS and React Native to create innovative and user-friendly interfaces. Possessing advanced skills in backend technologies, including MERN Stack. Committed to producing clean, scalable, and modular code with a keen emphasis on readability.
+Detail-oriented and creative full-stack developer with a strong foundation in frontend development. Specializing in building scalable and maintainable web applications using React, Next.js, and React Native. Experienced in backend development with Node.js and C# .NET/Entity Framework. Adept at using Tailwind CSS and Shadcn UI components, customizing and extending them to craft polished, user-centric interfaces. Proficient in creating reusable components, managing state with React Query, zustand, and Redux, and building custom hooks to streamline logic and improve maintainability. Passionate about clean code, performance optimization, and delivering high-quality user experiences.
 
 <hr>
 
